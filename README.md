@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shivani Raj</h1>
 
 <p align="center">
-Computer Science undergraduate focused on <b>Python, Machine Learning, and data-driven systems</b>, 
+Computer Science undergraduate (2nd year) focused on <b>Python, Machine Learning, and data-driven systems</b>, 
 with a strong interest in applying AI to real-world domains such as healthcare and sustainability.
 </p>
 
