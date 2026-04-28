@@ -12,7 +12,7 @@ projects while continuously strengthening my fundamentals in systems, ML, and so
 </p>
 
 <p align="center">
-<b>GSoC 2026 Aspirant · Open Source Contributor · AI / ML</b>
+<b>· Open Source Contributor · AI / ML</b>
 </p>
 
 ---
