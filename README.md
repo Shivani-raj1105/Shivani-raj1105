@@ -64,7 +64,6 @@ strengthening my foundations in systems, ML, and software engineering.
 <h3 align="left">Goals</h3>
 
 - Become a consistent contributor to impactful open-source organizations  
-- Prepare a strong proposal for <b>Google Summer of Code 2026</b>  
 - Build reliable AI systems in healthcare and data-intensive domains  
 
 ---
