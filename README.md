@@ -1,73 +1,70 @@
-<h1 align="center">Hi, I'm Shivani Raj</h1>
+<h1 align="center">Hi, I'm Shivani Raj 👋</h1>
 
 <p align="center">
-Computer Science undergraduate (2nd year) focused on <b>Python, Machine Learning, and data-driven systems</b>, 
-with a strong interest in applying AI to real-world domains such as healthcare and sustainability.
+  <b>Computer Science Engineering Student | AI & Machine Learning | Backend Engineering | Open Source</b>
 </p>
 
 <p align="center">
-I work with structured, production-style codebases and actively build experience as an 
-<b>open-source contributor</b>. My focus is on writing reliable, well-documented code while 
-strengthening my foundations in systems, ML, and software engineering.
+I'm passionate about building intelligent software that combines machine learning with scalable backend systems. My interests lie in <b>Healthcare AI</b>, <b>Computer Vision</b>, <b>Scientific Computing</b>, and <b>Software Engineering</b>.
 </p>
 
 <p align="center">
-<b>· Open Source Contributor · AI / ML · Systems-Oriented Development</b>
+Currently exploring production-grade ML systems, backend architecture, and open-source development while continuously learning and contributing to real-world projects.
 </p>
 
----
-
-- **Currently focused on:** Open-source contributions, ML pipelines, and backend systems  
-- **Actively contributing to:** Beginner-friendly and mentorship-driven open-source projects  
-- **Contact:** shivani.raj.urs1105@gmail.com  
-- **Interest areas:** Interpretable ML, healthcare AI, and production-grade systems  
-
----
-
-<h3 align="left">Languages and Tools</h3>
-
-<p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
-<a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<p align="center">
+<a href="mailto:shivani.raj.urs1105@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Shivani-raj1105">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<h3 align="left">Engineering & ML Workflow</h3>
+## 🚀 What I'm Working On
 
-- Version Control: Git, GitHub  
-- Development Environment: Linux, WSL  
-- ML & CV: NumPy, Pandas, TensorFlow, OpenCV  
-- Backend: Django, SQL (MySQL)  
-- Systems: GCC toolchain, cross-compilation (learning phase)  
-
----
-
-<h3 align="left">Current Focus</h3>
-
-- Contributing to real-world open-source repositories (docs, tests, bug fixes, small features)  
-- Building end-to-end ML pipelines (data → preprocessing → model → evaluation)  
-- Strengthening problem-solving and systems-level understanding  
+- 🤝 Contributing to open-source software
+- 🧠 Building AI & Computer Vision applications
+- ⚙️ Developing scalable backend systems
+- 📚 Learning systems programming and software engineering
 
 ---
 
-<h3 align="left">Goals</h3>
+## 🛠 Tech Stack
 
-- Become a consistent contributor to impactful open-source organizations  
-- Build reliable AI systems in healthcare and data-intensive domains  
+### Languages
+Python • C++ • C • JavaScript • SQL
+
+### AI & Data
+TensorFlow • OpenCV • NumPy • Pandas • Scikit-learn
+
+### Backend
+Node.js • Express • Django • REST APIs • Prisma
+
+### Databases
+PostgreSQL • MySQL • SQLite
+
+### Tools
+Git • GitHub • Docker • Linux • VS Code
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-raj1105" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-raj1105&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-raj1105&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&theme=github-compact"/>
 </p>
