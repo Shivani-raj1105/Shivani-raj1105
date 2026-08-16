@@ -141,18 +141,25 @@ code reviews, and open-source development.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-raj1105&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&theme=github-compact&hide_border=true&area=true&custom_title=Shivani%20Raj%27s%20Contribution%20Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shivani-raj1105&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Shivani-raj1105&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&theme=github-compact&hide_border=true&area=true"/>
+  <a href="https://github.com/Shivani-raj1105">
+    <img src="https://img.shields.io/github/followers/Shivani-raj1105?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/Shivani-raj1105?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Shivani-raj1105?style=for-the-badge&logo=github&label=Total%20Stars"/>
+  </a>
+  <a href="https://github.com/Shivani-raj1105">
+    <img src="https://img.shields.io/github/commit-activity/y/Shivani-raj1105?style=for-the-badge&label=Commits"/>
+  </a>
 </p>
+
 
 ---
 
