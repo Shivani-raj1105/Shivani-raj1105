@@ -57,7 +57,7 @@ Git • GitHub • Docker • Linux • VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&theme=github_dark&hide_border=true&show=prs,prs_merged,prs_merged_percentage,reviews"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-raj1105&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
