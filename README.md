@@ -29,20 +29,20 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-* 🧠 Build machine learning and computer vision systems
-* 🏥 Develop AI applications for healthcare and medical imaging
-* ⚙️ Design backend systems and REST APIs
-* 🔬 Work with scientific computing and data-intensive applications
-* 🤝 Contribute to open-source projects and collaborative repositories
-* 📚 Explore ML research, software engineering, and systems development
+*  Build machine learning and computer vision systems
+*  Develop AI applications for healthcare and medical imaging
+*  Design backend systems and REST APIs
+*  Work with scientific computing and data-intensive applications
+*  Contribute to open-source projects and collaborative repositories
+*  Explore ML research, software engineering, and systems development
 
 ---
 
-## 🔥 Featured Work
+##  Featured Work
 
-### 🧬 RetiNova
+###  RetiNova
 
 **Retinal Disease Prediction using Deep Learning**
 
@@ -53,7 +53,7 @@ using deep learning and computer vision.
 
 ---
 
-### 🧠 AIMS-TBI — Brain Lesion Segmentation
+###  AIMS-TBI — Brain Lesion Segmentation
 
 Deep-learning pipeline for automated brain lesion segmentation from
 diffusion MRI data.
@@ -62,7 +62,7 @@ diffusion MRI data.
 
 ---
 
-### ⚙️ Education ERP
+###  Education ERP
 
 A full-stack academic management platform involving backend architecture,
 database design, authentication, APIs, and frontend integration.
@@ -71,7 +71,7 @@ database design, authentication, APIs, and frontend integration.
 
 ---
 
-### 👁️ Smart Weigh
+###  Smart Weigh
 
 Computer-vision-based retail automation for product identification and
 automated weighing workflows.
@@ -80,20 +80,20 @@ automated weighing workflows.
 
 ---
 
-## 🤝 Open Source
+##  Open Source
 
 I actively work with Git, GitHub, pull requests, code reviews, and
 collaborative development across multiple repositories.
 
-* 🔀 Pull requests and collaborative development
-* 👀 Code review and repository collaboration
-* 🌐 Contributions across multiple repositories
-* 🐼 Exploring large-scale scientific Python projects
-* 🧩 Interested in ML, computer vision, scientific computing, and developer tooling
+*  Pull requests and collaborative development
+*  Code review and repository collaboration
+*  Contributions across multiple repositories
+*  Exploring large-scale scientific Python projects
+*  Interested in ML, computer vision, scientific computing, and developer tooling
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -138,7 +138,7 @@ collaborative development across multiple repositories.
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img
@@ -163,7 +163,7 @@ collaborative development across multiple repositories.
 
 ---
 
-## 📌 Contribution Highlights
+##  Contribution Highlights
 
 <p align="center">
 
@@ -183,7 +183,7 @@ collaborative development across multiple repositories.
 
 ---
 
-## 🎯 Currently Exploring
+##  Currently Exploring
 
 ```text
 Machine Learning
