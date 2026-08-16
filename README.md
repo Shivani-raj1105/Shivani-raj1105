@@ -141,12 +141,13 @@ code reviews, and open-source development.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&show=prs,prs_merged,prs_merged_percentage,reviews"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-raj1105&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-raj1105&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-raj1105&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Shivani-raj1105&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
