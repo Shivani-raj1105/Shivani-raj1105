@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  Currently working on ML systems, computer vision applications, backend architecture,
-  scientific computing, and open-source contributions.
+  Currently working on ML systems, medical imaging, backend architecture,
+  scientific computing, and open-source development.
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@
 ## 🚀 What I Do
 
 * 🧠 Build machine learning and computer vision systems
-* 🏥 Explore AI applications in healthcare and medical imaging
-* ⚙️ Develop backend systems and REST APIs
+* 🏥 Develop AI applications for healthcare and medical imaging
+* ⚙️ Design backend systems and REST APIs
 * 🔬 Work with scientific computing and data-intensive applications
-* 🤝 Contribute to open-source projects and collaborative development
-* 📚 Continuously explore systems, software engineering, and ML research
+* 🤝 Contribute to open-source projects and collaborative repositories
+* 📚 Explore ML research, software engineering, and systems development
 
 ---
 
@@ -46,8 +46,8 @@
 
 **Retinal Disease Prediction using Deep Learning**
 
-An AI-based medical imaging project focused on retinal disease prediction using
-deep learning and computer vision.
+An AI-based medical imaging system focused on retinal disease prediction
+using deep learning and computer vision.
 
 **Tech:** Python • TensorFlow • EfficientNet • OpenCV • Medical Imaging
 
@@ -55,8 +55,8 @@ deep learning and computer vision.
 
 ### 🧠 AIMS-TBI — Brain Lesion Segmentation
 
-A medical imaging project focused on automated brain lesion segmentation from
-diffusion MRI data, using a modern deep-learning segmentation pipeline.
+Deep-learning pipeline for automated brain lesion segmentation from
+diffusion MRI data.
 
 **Tech:** Python • PyTorch • nnU-Net • Medical Imaging • MRI • Deep Learning
 
@@ -64,8 +64,8 @@ diffusion MRI data, using a modern deep-learning segmentation pipeline.
 
 ### ⚙️ Education ERP
 
-A full-stack academic management system involving backend architecture,
-database design, APIs, authentication, and frontend integration.
+A full-stack academic management platform involving backend architecture,
+database design, authentication, APIs, and frontend integration.
 
 **Tech:** Node.js • Express.js • PostgreSQL • Prisma • REST APIs
 
@@ -73,8 +73,8 @@ database design, APIs, authentication, and frontend integration.
 
 ### 👁️ Smart Weigh
 
-A computer-vision-based retail automation project designed to automate
-product identification and weighing workflows.
+Computer-vision-based retail automation for product identification and
+automated weighing workflows.
 
 **Tech:** Python • OpenCV • Computer Vision • Machine Learning
 
@@ -82,13 +82,13 @@ product identification and weighing workflows.
 
 ## 🤝 Open Source
 
-I actively work with Git, GitHub, collaborative repositories, pull requests,
-code reviews, and open-source development.
+I actively work with Git, GitHub, pull requests, code reviews, and
+collaborative development across multiple repositories.
 
 * 🔀 Pull requests and collaborative development
 * 👀 Code review and repository collaboration
 * 🌐 Contributions across multiple repositories
-* 🐼 Exploring contributions to large-scale scientific Python projects
+* 🐼 Exploring large-scale scientific Python projects
 * 🧩 Interested in ML, computer vision, scientific computing, and developer tooling
 
 ---
@@ -141,32 +141,44 @@ code reviews, and open-source development.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&theme=github-compact&hide_border=true&area=true&custom_title=Shivani%20Raj%27s%20Contribution%20Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shivani-raj1105&theme=github-dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&theme=github-compact&hide_border=true&area=true&custom_title=Shivani%20Raj%27s%20Contribution%20Graph"
+    width="95%"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shivani-raj1105">
-    <img src="https://img.shields.io/github/followers/Shivani-raj1105?style=for-the-badge&logo=github&label=Followers"/>
+    <img src="https://img.shields.io/github/followers/Shivani-raj1105?style=for-the-badge&logo=github&label=FOLLOWERS"/>
   </a>
+
   <a href="https://github.com/Shivani-raj1105?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Shivani-raj1105?style=for-the-badge&logo=github&label=Total%20Stars"/>
+    <img src="https://img.shields.io/github/stars/Shivani-raj1105?style=for-the-badge&logo=github&label=TOTAL%20STARS"/>
   </a>
-  <a href="https://github.com/Shivani-raj1105">
-    <img src="https://img.shields.io/github/commit-activity/y/Shivani-raj1105?style=for-the-badge&label=Commits"/>
+
+  <a href="https://github.com/Shivani-raj1105?tab=overview">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
 
 ---
 
-## 📈 Contribution Overview
+## 📌 Contribution Highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivani-raj1105&theme=github_dark"/>
+
+  <a href="https://github.com/Shivani-raj1105">
+    <img src="https://img.shields.io/badge/Repositories-20%2B-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://github.com/Shivani-raj1105?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-AI%20%7C%20CV%20%7C%20Backend-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://github.com/Shivani-raj1105">
+    <img src="https://img.shields.io/badge/Focus-Open%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
+
 </p>
 
 ---
