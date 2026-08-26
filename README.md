@@ -138,7 +138,7 @@ collaborative development across multiple repositories.
 
 ---
 
-##  GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
@@ -160,7 +160,6 @@ collaborative development across multiple repositories.
     <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
 ---
 
 ##  Contribution Highlights
