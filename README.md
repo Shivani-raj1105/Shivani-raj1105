@@ -138,7 +138,18 @@ collaborative development across multiple repositories.
 
 ---
 
-## GitHub Activity
+## GitHub Stats & Contributions
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&theme=github-compact&hide_border=true&count_private=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-raj1105&theme=github-compact&hide_border=true"
+  />
+</p>
 
 <p align="center">
   <img
