@@ -175,10 +175,7 @@ collaborative development across multiple repositories.
 
 <br>
 
-<details>
-<summary><b>View contribution breakdown</b></summary>
-
-<br>
+### Contribution Breakdown
 
 | Activity | Share | What it represents |
 |:---|---:|:---|
@@ -186,8 +183,6 @@ collaborative development across multiple repositories.
 | Issues | **3%** | Identifying problems and improving projects |
 | Pull Requests | **2%** | Collaborative development and code contributions |
 | Code Reviews | **1%** | Reviewing code and improving code quality |
-
-</details>
 
 <br>
 
@@ -292,3 +287,4 @@ collaborative development across multiple repositories.
                        +--------------+
                        |   Impact     |
                        +--------------+
+```
