@@ -141,13 +141,6 @@ collaborative development across multiple repositories.
 # GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&bg_color=0d1117&color=58a6ff&line=2ea043&point=f0883e&area=true&hide_border=true&custom_title=Shivani%20Raj%27s%20Contribution%20Activity"
-    width="95%"
-  />
-</p>
-
-<p align="center">
   <a href="https://github.com/Shivani-raj1105">
     <img
       src="https://img.shields.io/badge/94%25-Commits-2ea043?style=for-the-badge&logo=git&logoColor=white"
