@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shivani Raj 👋</h1>
+<h1 align="center">Hi, I'm Shivani Raj</h1>
 
 <p align="center">
   <b>Computer Science Engineering Student | AI & Machine Learning | Backend Engineering | Open Source</b>
@@ -29,20 +29,20 @@
 
 ---
 
-##  What I Do
+## What I Do
 
-*  Build machine learning and computer vision systems
-*  Develop AI applications for healthcare and medical imaging
-*  Design backend systems and REST APIs
-*  Work with scientific computing and data-intensive applications
-*  Contribute to open-source projects and collaborative repositories
-*  Explore ML research, software engineering, and systems development
+- Build machine learning and computer vision systems
+- Develop AI applications for healthcare and medical imaging
+- Design backend systems and REST APIs
+- Work with scientific computing and data-intensive applications
+- Contribute to open-source projects and collaborative repositories
+- Explore ML research, software engineering, and systems development
 
 ---
 
-##  Featured Work
+## Featured Work
 
-###  RetiNova
+### RetiNova
 
 **Retinal Disease Prediction using Deep Learning**
 
@@ -53,7 +53,7 @@ using deep learning and computer vision.
 
 ---
 
-###  AIMS-TBI — Brain Lesion Segmentation
+### AIMS-TBI — Brain Lesion Segmentation
 
 Deep-learning pipeline for automated brain lesion segmentation from
 diffusion MRI data.
@@ -62,7 +62,7 @@ diffusion MRI data.
 
 ---
 
-###  Education ERP
+### Education ERP
 
 A full-stack academic management platform involving backend architecture,
 database design, authentication, APIs, and frontend integration.
@@ -71,7 +71,7 @@ database design, authentication, APIs, and frontend integration.
 
 ---
 
-###  Smart Weigh
+### Smart Weigh
 
 Computer-vision-based retail automation for product identification and
 automated weighing workflows.
@@ -80,20 +80,20 @@ automated weighing workflows.
 
 ---
 
-##  Open Source
+## Open Source
 
 I actively work with Git, GitHub, pull requests, code reviews, and
 collaborative development across multiple repositories.
 
-*  Pull requests and collaborative development
-*  Code review and repository collaboration
-*  Contributions across multiple repositories
-*  Exploring large-scale scientific Python projects
-*  Interested in ML, computer vision, scientific computing, and developer tooling
+- Pull requests and collaborative development
+- Code review and repository collaboration
+- Contributions across multiple repositories
+- Exploring large-scale scientific Python projects
+- Interested in ML, computer vision, scientific computing, and developer tooling
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -138,83 +138,157 @@ collaborative development across multiple repositories.
 
 ---
 
-## GitHub Stats & Contributions
+# GitHub Activity
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&theme=github-compact&hide_border=true&count_private=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-raj1105&theme=github-compact&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&theme=github-compact&hide_border=true&area=true&custom_title=Shivani%20Raj%27s%20Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-raj1105&bg_color=0d1117&color=58a6ff&line=2ea043&point=f0883e&area=true&hide_border=true&custom_title=Shivani%20Raj%27s%20Contribution%20Activity"
     width="95%"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shivani-raj1105">
-    <img src="https://img.shields.io/github/followers/Shivani-raj1105?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+    <img
+      src="https://img.shields.io/badge/94%25-Commits-2ea043?style=for-the-badge&logo=git&logoColor=white"
+    />
   </a>
 
-  <a href="https://github.com/Shivani-raj1105?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Shivani-raj1105?style=for-the-badge&logo=github&label=TOTAL%20STARS"/>
+  <a href="https://github.com/Shivani-raj1105/issues">
+    <img
+      src="https://img.shields.io/badge/3%25-Issues-58a6ff?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 
-  <a href="https://github.com/Shivani-raj1105?tab=overview">
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Shivani-raj1105/pulls">
+    <img
+      src="https://img.shields.io/badge/2%25-Pull%20Requests-a371f7?style=for-the-badge&logo=git&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/Shivani-raj1105">
+    <img
+      src="https://img.shields.io/badge/1%25-Code%20Reviews-f0883e?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
+
+<br>
+
+<details>
+<summary><b>View contribution breakdown</b></summary>
+
+<br>
+
+| Activity | Share | What it represents |
+|:---|---:|:---|
+| Commits | **94%** | Building features, implementing systems, and fixing bugs |
+| Issues | **3%** | Identifying problems and improving projects |
+| Pull Requests | **2%** | Collaborative development and code contributions |
+| Code Reviews | **1%** | Reviewing code and improving code quality |
+
+</details>
+
+<br>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Shivani-raj1105&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-raj1105&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
 ---
 
-##  Contribution Highlights
+## Contribution Snapshot
 
 <p align="center">
 
   <a href="https://github.com/Shivani-raj1105">
-    <img src="https://img.shields.io/badge/Repositories-20%2B-181717?style=for-the-badge&logo=github"/>
+    <img
+      src="https://img.shields.io/github/followers/Shivani-raj1105?style=for-the-badge&logo=github&label=FOLLOWERS"
+    />
   </a>
 
   <a href="https://github.com/Shivani-raj1105?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-AI%20%7C%20CV%20%7C%20Backend-181717?style=for-the-badge&logo=github"/>
+    <img
+      src="https://img.shields.io/github/stars/Shivani-raj1105?style=for-the-badge&logo=github&label=TOTAL%20STARS"
+    />
   </a>
 
-  <a href="https://github.com/Shivani-raj1105">
-    <img src="https://img.shields.io/badge/Focus-Open%20Source-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Shivani-raj1105?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Repositories-20%2B-181717?style=for-the-badge&logo=github"
+    />
   </a>
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/Shivani-raj1105/issues">
+    <img
+      src="https://img.shields.io/badge/Issues-Explore-58a6ff?style=flat-square&logo=github"
+    />
+  </a>
+
+  <a href="https://github.com/Shivani-raj1105/pulls">
+    <img
+      src="https://img.shields.io/badge/Pull%20Requests-Explore-a371f7?style=flat-square&logo=git"
+    />
+  </a>
+
+  <a href="https://github.com/Shivani-raj1105">
+    <img
+      src="https://img.shields.io/badge/Open%20Source-Contributor-2ea043?style=flat-square&logo=github"
+    />
+  </a>
+</p>
+
 ---
 
-##  Currently Exploring
+## What My Contributions Look Like
 
 ```text
-Machine Learning
-        ↓
-Computer Vision
-        ↓
-Medical Imaging
-        ↓
-Production ML Systems
-        ↓
-Backend Engineering
-        ↓
-Open Source
-```
+                         GITHUB WORKFLOW
 
----
-
-<p align="center">
-  <b>Building • Learning • Contributing • Improving</b>
-</p>
-
-<p align="center">
-  <i>Always working on something new.</i>
-</p>
+                              |
+                              v
+                       +--------------+
+                       |    Ideas     |
+                       +--------------+
+                              |
+                              v
+                       +--------------+
+                       |    Issues    |
+                       +--------------+
+                              |
+                              v
+                       +--------------+
+                       |    Coding    |
+                       |   & Commits  |
+                       +--------------+
+                              |
+                              v
+                       +--------------+
+                       | Pull Request |
+                       +--------------+
+                              |
+                              v
+                       +--------------+
+                       | Code Review  |
+                       +--------------+
+                              |
+                              v
+                       +--------------+
+                       |    Merge     |
+                       +--------------+
+                              |
+                              v
+                       +--------------+
+                       |   Impact     |
+                       +--------------+
